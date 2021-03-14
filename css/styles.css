@@ -48,7 +48,7 @@
 }
 
 html {
-  font-family: sans-serif;
+  font-family:'Noto Sans TC',  sans-serif;
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
@@ -79,7 +79,9 @@ hr {
   overflow: visible;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6 {font-family: 'Noto Sans TC', sans-serif;
+}
+
   margin-top: 0;
   margin-bottom: 0.5rem;
 }
