@@ -1,3 +1,3 @@
 .bg-primary{
-   background-color: #5F9EA0 !important;
+   background-color: # !important;
 }
