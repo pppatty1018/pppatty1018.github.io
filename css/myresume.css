@@ -1,12 +1,12 @@
 body {
 	font-family: 'Noto Sans TC', sans-serif;
-	text-transform: capitalize; 
+	text-transform: none; 
 }
 n1, n2, n3, n4, n5, n6, .n1, .n2, .n3, .n4, .n5, .n6 {
 	font-family: 'Noto Sans TC', sans-serif;
-	text-transform: capitalize; 
+	text-transform: none; 
 }
 .subheading{
 	font-family: 'Noto Sans TC', sana-serif;
-	text-transform: capitalize;      
+	text-transform: none;      
 }
