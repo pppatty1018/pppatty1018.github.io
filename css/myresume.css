@@ -23,4 +23,7 @@ a {
     background-color: #ADD8E6 !important;
     background-image:diamond-upholstery;	
 }
-
+body {
+    padding-top: 3.375rem;
+    color: #001373;
+}
