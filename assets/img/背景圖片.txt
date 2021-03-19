@@ -1,2 +1,2 @@
-<img src="C:\Users\a4110916\Dropbox\我的電腦" alt="背景圖片">
+<img src="github 圖" alt="背景圖片">
 
