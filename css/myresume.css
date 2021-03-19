@@ -10,3 +10,15 @@ n1, n2, n3, n4, n5, n6, .n1, .n2, .n3, .n4, .n5, .n6 {
 	font-family: 'Noto Sans TC', sana-serif;
 	text-transform: none;      
 }
+h1, h2, h3, h4, h5, h6{
+  text-transform: none;
+}
+.text-primary {
+    color: #ADD8E6 !important;
+}
+a {
+    color: #ADD8E6;
+}
+.bg-primary {
+    background-color: #ADD8E6 !important;
+}
