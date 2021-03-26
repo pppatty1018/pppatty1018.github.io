@@ -23,7 +23,7 @@ a {
     color: #ADD8E6;
 }
 .bg-primary {
-   background-color: #00729c;
-   background-image: url("https://www.transparenttextures.com/patterns/diagmonds.png");
+   background-color: #0091ff;
+   background-image: url("https://www.transparenttextures.com/patterns/diagmonds-light.png");
    /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
