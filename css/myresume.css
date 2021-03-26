@@ -1,7 +1,7 @@
 body {
 	font-family: 'Noto Sans TC', sans-serif;
 	text-transform: none;
-	background-color: #004e8a;
+	background-color: #00659c;
         background-image: url("https://www.transparenttextures.com/patterns/asfalt-light.png");
         /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
@@ -23,7 +23,7 @@ a {
     color: #ADD8E6;
 }
 .bg-primary {
-   background-color: #0091ff;
-   background-image: url("https://www.transparenttextures.com/patterns/diagmonds-light.png");
+   background-color: #002970;
+   background-image: url("https://www.transparenttextures.com/patterns/clean-gray-paper.png");
    /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
