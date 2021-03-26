@@ -1,6 +1,9 @@
 body {
 	font-family: 'Noto Sans TC', sans-serif;
-	text-transform: none; 
+	text-transform: none;
+	background-color: #00729c;
+        background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-light.png");
+        /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 n1, n2, n3, n4, n5, n6, .n1, .n2, .n3, .n4, .n5, .n6 {
 	font-family: 'Noto Sans TC', sans-serif;
