@@ -1,9 +1,9 @@
 body {
 	font-family: 'Noto Sans TC', sans-serif;
 	text-transform: none;
-	background-color: #33e0ff;
-        background-image: url("https://www.transparenttextures.com/patterns/asfalt-light.png");
-        /* This is mostly intended for prototyping; please download the pattern and re-host for production 
+	background-color: #447da3;
+        background-image: url("https://www.transparenttextures.com/patterns/xv.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 n1, n2, n3, n4, n5, n6, .n1, .n2, .n3, .n4, .n5, .n6 {
 	font-family: 'Noto Sans TC', sans-serif;
@@ -23,7 +23,7 @@ a {
     color: #ADD8E6;
 }
 .bg-primary {
-  background-color: #168599;
+  background-color: #fff;
   background-image: url("https://www.transparenttextures.com/patterns/fresh-snow.png");
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
