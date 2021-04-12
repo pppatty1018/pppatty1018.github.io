@@ -1,9 +1,9 @@
 body {
 	font-family: 'Noto Sans TC', sans-serif;
 	text-transform: none;
-	background-color: #00659c;
+	background-color: #33e0ff;
         background-image: url("https://www.transparenttextures.com/patterns/asfalt-light.png");
-        /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+        /* This is mostly intended for prototyping; please download the pattern and re-host for production 
 }
 n1, n2, n3, n4, n5, n6, .n1, .n2, .n3, .n4, .n5, .n6 {
 	font-family: 'Noto Sans TC', sans-serif;
