@@ -45,8 +45,6 @@
 *::before,
 *::after {
   box-sizing: border-box;
-  border-radius:20px;
-  border-color:white;
 }
 
 html {
