@@ -27,3 +27,6 @@ a {
          background-image: url("https://www.transparenttextures.com/patterns/xv.png");
          /* This is mostly intended for prototyping; please download the pattern and re-host for production 
 }
+h3{
+   margin-bottom:3rem !	important;
+}
