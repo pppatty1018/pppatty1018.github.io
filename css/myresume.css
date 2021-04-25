@@ -29,3 +29,6 @@ a {
          /* This is mostly intended for prototyping; please download the pattern and re-host for production 
 }
 
+ol>li:hover {
+	background-color: #purple;
+}
