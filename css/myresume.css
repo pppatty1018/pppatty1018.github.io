@@ -4,6 +4,7 @@ body {
 	background-color: #447da3;
         background-image: url("https://www.transparenttextures.com/patterns/xv.png");
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+	margin: 3rem;
 }
 n1, n2, n3, n4, n5, n6, .n1, .n2, .n3, .n4, .n5, .n6 {
 	font-family: 'Noto Sans TC', sans-serif;
