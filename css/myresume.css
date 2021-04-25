@@ -29,6 +29,8 @@ a {
          /* This is mostly intended for prototyping; please download the pattern and re-host for production 
 }
 
-ol>li:hover {
-	background-color: #purple;
+h2{
+border-color:white
+border-style:dashed
+border-radius: 15px;	
 }
