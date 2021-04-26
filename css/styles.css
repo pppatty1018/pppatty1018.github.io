@@ -377,6 +377,9 @@ h2, .h2 {
   font-size: 3.5rem;
   border-color:white;
   border-style:dashed;
+  border-top-right-radius:15%
+  border-bottom-left-radius:15%
+  width:36rem;
 }
 
 h3, .h3 {
