@@ -45,7 +45,6 @@
 *::before,
 *::after {
   box-sizing: border-box;
-  padding-left: 5%;
 }
 
 html {
