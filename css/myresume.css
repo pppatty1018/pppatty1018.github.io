@@ -19,11 +19,6 @@ h1, h2, h3, h4, h5, h6{
 }
 .text-primary {
     color: #ADD8E6 !important;
-    border-color:white;
-    border-style:dashed;
-    border-top-right-radius:15%;
-    border-bottom-left-radius:15%;
-    width:36rem;
 }
 a {
     color: #ADD8E6;
