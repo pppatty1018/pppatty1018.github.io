@@ -375,11 +375,8 @@ h1, .h1 {
 
 h2, .h2 {
   font-size: 3.5rem;
-  border-left:1.5rem;
-  border-right:1.5rem;
   border-color:white;
   border-style:dashed;
-  padding:0;
 }
 
 h3, .h3 {
