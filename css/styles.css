@@ -201,7 +201,7 @@ figure {
 img {
   vertical-align: middle;
   border-style: none;
-  image-size:30px
+  image-size:30px;
 }
 
 svg {
