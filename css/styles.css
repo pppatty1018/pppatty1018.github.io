@@ -164,6 +164,7 @@ a {
   color: #bd5d38;
   text-decoration: none;
   background-color: transparent;
+  font-size:2rem;
 }
 a:hover {
   color: #824027;
