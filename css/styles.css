@@ -164,7 +164,7 @@ a {
   color: #bd5d38;
   text-decoration: none;
   background-color: transparent;
-  font-size:2rem;
+  font-size:1.5rem;
 }
 a:hover {
   color: #824027;
@@ -10009,7 +10009,7 @@ h1 {
 }
 
 p.lead {
-  font-size: 1.15rem;
+  font-size: 1.5rem;
   font-weight: 400;
 }
 
