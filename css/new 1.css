@@ -1,4 +1,7 @@
 p.123{
-  background-color: white;
-  width: 95px;
+	background-color: white;
+	width: 95px;
+}
+span.text-primary{
+	padding-left: 5%
 }
