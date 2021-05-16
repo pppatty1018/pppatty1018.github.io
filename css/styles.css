@@ -44,7 +44,7 @@
 *,
 *::before,
 *::after {
-  box-sizing: border-box;
+  box-sizing:;
 }
 
 html {
@@ -61,7 +61,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 body {
   margin: 0;
   font-family: "Muli", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  font-size: 1rem;
+  font-size: 1.05rem;
   font-weight: 400;
   line-height: 1.5;
   color: #212529;
@@ -164,6 +164,7 @@ a {
   color: #bd5d38;
   text-decoration: none;
   background-color: transparent;
+  font-size:1.5rem;
 }
 a:hover {
   color: #824027;
@@ -201,6 +202,7 @@ figure {
 img {
   vertical-align: middle;
   border-style: none;
+  image-size:30%;
 }
 
 svg {
@@ -7612,7 +7614,7 @@ button.bg-dark:focus {
 
 .mb-5,
 .my-5 {
-  margin-bottom: 5rem !important;
+  margin-bottom: 2rem !important;
   margin-top: 1rem !important;
 }
 
@@ -10007,7 +10009,7 @@ h1 {
 }
 
 p.lead {
-  font-size: 1.15rem;
+  font-size: 1.5rem;
   font-weight: 400;
 }
 
@@ -10109,9 +10111,9 @@ section.resume-section .resume-section-content {
 }
 @media (min-width: 992px) {
   section.resume-section {
-    padding-left: 3rem;
+    padding-left: 4rem;
     padding-right: 3rem;
-    padding-top: 5rem;
+    padding-top: 1rem;
     padding-bottom: 5rem;
   }
 }
