@@ -47,12 +47,17 @@ img.1{
 	position: relative;
 	bottom: 150px;
 	right: 500px;
-}img.2{
+	border-bottom-left-radius: 70px;
+	border-top-right-radius: 70px;
+}
+img.2{
 	width: 30%;
 	float: right;
 	position: relative;
 	left: 150px;
 	bottom: 50px;
+	border-top-left-radius: 70px;
+	border-bottom-right-radius: 70px;
 }
 img.3{
 	width: 30%;
@@ -60,10 +65,6 @@ img.3{
 	position: relative;
     right: 450px;
 	bottom: 30px
-}
-img.4{
-    width: 25%;
-    float: right;
-    position: relative;
-    left: 250px;	
+	border-bottom-left-radius: 70px;
+	border-top-right-radius: 70px;
 }
