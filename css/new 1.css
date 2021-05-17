@@ -19,11 +19,12 @@ p.1{
 	font-size: 2rem;
 }
 p.2{
-	font-size: 1.5rem;
+	font-size: 3rem;
 	margin-top: 5rem;
 }
 div.subheading.mb-3{
 	margin-top: 5rem;
+	font-size: 3rem;
 }
 td.1{
 	font-size: 3.5rem;
@@ -72,4 +73,7 @@ img.3{
 p.4{
 	font-size: 3rem;
 	margin-top: 5rem;
+}
+ul.1{
+	font-size: 1.5rem;
 }
