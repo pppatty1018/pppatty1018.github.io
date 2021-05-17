@@ -45,19 +45,19 @@ img.1{
 	width: 30%;
 	float: right;
 	position: relative;
-	bottom: 200px;
-	right: 390px;
+	bottom: 150px;
+	right: 300px;
 }img.2{
 	width: 30%;
 	float: right;
 	position: relative;
-	left: 400px;
-	bottom: 100px;
+	left: 350px;
+	bottom: 40px;
 }
 img.3{
 	width: 30%;
 	float: right;
 	position: relative;
-	bottom: 200px;
-	right: 390px;
+	left: 380px;
+	top: 100px;
 }
