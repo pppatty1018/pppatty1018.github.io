@@ -29,4 +29,8 @@ td.1{
 	font-size: 3.5rem;
 	width: 12.5%;
 	padding-left: 1.25%;
+	background-color: #E6E6FA;
+}
+td{
+	background-color: #CCCCFF;
 }
