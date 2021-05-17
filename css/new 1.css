@@ -83,6 +83,8 @@ p.5{
 div#flex_container{
 	display: flex;
     flex-warp: warp;
+	justify-content: space-between;
+}
 }
 img{
 	margin-bottom: 5rem;
