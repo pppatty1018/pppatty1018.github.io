@@ -41,3 +41,9 @@ p.3{
 	font-size: 2rem;
 	margin-top: 5rem;
 }
+img.1{
+	float: right;
+	position: relative;
+	bottom: 200px;
+	right: 390px;
+}
