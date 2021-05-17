@@ -82,6 +82,5 @@ p.5{
 }
 div#flex_container{
 	display: flex;
-	justify-content: space-around;
 	flex-wrap: wrap;
 }
