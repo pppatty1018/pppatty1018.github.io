@@ -80,3 +80,7 @@ ul.1{
 p.5{
 	font-size: 1.5rem;
 }
+div#flex_container{
+	display: flex;
+	justify-content: space-around;
+}
