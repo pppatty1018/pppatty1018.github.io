@@ -42,8 +42,12 @@ p.3{
 	margin-top: 5rem;
 }
 img.1{
+	width: 30%;
 	float: right;
 	position: relative;
 	bottom: 200px;
 	right: 390px;
+}img.2{
+	width: 30%;
+	float: right;
 }
