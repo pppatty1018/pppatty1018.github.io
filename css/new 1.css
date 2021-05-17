@@ -50,4 +50,14 @@ img.1{
 }img.2{
 	width: 30%;
 	float: right;
+	position: relative;
+	left: 400px;
+	bottom: 100px;
+}
+img.3{
+	width: 30%;
+	float: right;
+	position: relative;
+	bottom: 200px;
+	right: 390px;
 }
