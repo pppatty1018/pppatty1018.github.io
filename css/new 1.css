@@ -101,3 +101,17 @@ img{
 ul.2{
 	font-size: 1.5rem;
 }
+img.4{
+	width: 30%;
+	float: right;
+	position: relative;
+	bottom: 150px;
+	right: 100px;
+}
+img.5{
+	width: 30%;
+	float: right;
+	position: relative;
+	left: 550px;
+	bottom: 50px;
+}
