@@ -91,7 +91,7 @@ img{
 }
 div.1{
 	height:313px; 
-	width:40%; 
+	width:55%; 
 	position:absolute;
 }
 div.2{
@@ -99,4 +99,14 @@ div.2{
 	height:300px; 
 	margin-left:44.2%; 
 	padding:5px;
+}
+p.6{
+	font=size: 3rem;
+	margin-top: 0rem;
+	background-color: antiquewhite;
+	width: 280px;
+	padding-left: 20px;
+}
+p.7{
+	font-size: 1.5rem;
 }
