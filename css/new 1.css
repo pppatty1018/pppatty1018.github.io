@@ -83,23 +83,12 @@ p.5{
 div#flex_container{
 	display: flex;
     flex-warp: warp;
-	justify-content: space-between;
 }
-}
+
 img{
 	margin-bottom: 5rem;
 }
-div.1{
-	height:313px; 
-	width:55%; 
-	position:absolute;
-}
-div.2{
-	width:55.5%; 
-	height:300px; 
-	margin-left:44.2%; 
-	padding:5px;
-}
+
 p.6{
 	font-size: 3rem;
 	margin-top: 0rem;
